@@ -1,0 +1,11 @@
+.hello{
+    color:rgba(60, 242, 236, 0.285);
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 330px;
+}
+body{
+    margin: auto;
+}

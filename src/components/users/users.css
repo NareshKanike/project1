@@ -1,0 +1,12 @@
+.hello{
+    height: 500px;
+    width: 100px;
+    /* background-color: blue; */
+    position: relative;
+    top:50px;
+}
+.table{
+    height: 500px;
+    overflow: hidden;
+    width: 1000px;
+}
